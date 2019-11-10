@@ -1,0 +1,5 @@
+﻿  Lab12.2.cpp
+C:\Users\Матвей\source\repos\12\Lab12.2\Lab12.2.cpp(28,9): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\12\Lab12.2\Lab12.2.cpp(28,19): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Матвей\source\repos\12\Lab12.2\Lab12.2.cpp(18): warning C4715: Sign: значение возвращается не при всех путях выполнения
+  Lab12.2.vcxproj -> C:\Users\Матвей\source\repos\12\Debug\Lab12.2.exe
