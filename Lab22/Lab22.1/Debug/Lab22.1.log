@@ -1,0 +1,4 @@
+﻿  Lab22.1.cpp
+C:\Users\Матвей\source\repos\Lab22\Lab22.1\Lab22.1.cpp(24,33): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Матвей\source\repos\Lab22\Lab22.1\Lab22.1.cpp(33,32): warning C4018: <: несоответствие типов со знаком и без знака
+  Lab22.1.vcxproj -> C:\Users\Матвей\source\repos\Lab22\Debug\Lab22.1.exe
